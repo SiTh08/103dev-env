@@ -1,4 +1,4 @@
-# ## Git and Branching Task
+# Git and Branching Task
 
 This is what you need to do:
 
